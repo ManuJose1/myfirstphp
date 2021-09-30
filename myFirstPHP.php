@@ -6,6 +6,7 @@
 <?php
 $txt1 = "HELLO PHP";
 $txt2 = "I have changed myFirstPHP too";
+$txt3 = "I changed myfirstphp again :)";
 $x = 100;
 $y = 200;
 
